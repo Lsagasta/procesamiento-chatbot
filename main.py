@@ -3,7 +3,7 @@ import streamlit as st
 
 st.image("images/banner.png")
 
-st.title("CablePro - Chatbot")
+st.title("Prueba chatbot")
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
