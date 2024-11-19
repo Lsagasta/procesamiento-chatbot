@@ -27,3 +27,6 @@ if prompt := st.chat_input("Preguntame lo que quieras"):
         respuesta = obtener_respuesta_openai(prompt)
     with st.chat_message("assistant"):
         st.markdown(respuesta)
+
+
+

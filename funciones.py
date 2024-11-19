@@ -74,7 +74,7 @@ def obtener_respuesta_openai(pregunta: str, top_k=5):
     )
     # Obtén la respuesta del modelo
     respuesta = respuesta_openai.choices[0].message.content.strip()
-    respuesta = respuesta.replace("$", "\$")
+    respuesta = respuesta.replace("$", "\\$")
 
     # Agrega el nuevo mensaje del usuario al historial
     st.session_state.historial.append({"role": "user", "content": pregunta})
