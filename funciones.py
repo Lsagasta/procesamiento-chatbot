@@ -49,7 +49,7 @@ def obtener_respuesta_openai(pregunta: str, top_k=5):
         pregunta}\n\nContexto:\n{contexto}"}
 
     # Mantén solo los últimos N mensajes para evitar sobrecargar el modelo
-    N = 10  # Ajusta este valor según la cantidad de memoria que quieras mantener
+    N = 20  # Ajusta este valor según la cantidad de memoria que quieras mantener
     st.session_state.historial = st.session_state.historial[-N:]
 
     # Formatear el historial como texto para incluirlo en el mensaje del sistema
