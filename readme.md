@@ -66,12 +66,13 @@ Esto abrirá la aplicación en tu navegador por defecto.
 
 Este proyecto no habría sido posible sin el talento y dedicación de un increíble equipo de trabajo. ¡Conoce a quienes hicieron esto realidad!  
 
+**Damian Cardinaux** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/damiancx/) Data Scientist and AI Specialist 
 
-|----------------------|------------------------------------------------------------|---------|
-|  **Damian Cardinaux** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/damiancx/) | Data Scientist and AI Specialist |
-|  **Natalia Riera**    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nataliariera/) | Data Scientist and AI Specialist |
-|  **Pablo Cardozo**    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pablo-cardozo16/) | Data Scientist and AI Specialist |
-|  **Lucas Sagasta**    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lucas-sagasta-4291198b/) | Data Scientist and AI Specialist |
+**Natalia Riera** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nataliariera/) Data Scientist and AI Specialist 
+
+**Pablo Cardozo** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pablo-cardozo16/) Data Scientist and AI Specialist 
+
+**Lucas Sagasta** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lucas-sagasta-4291198b/) Data Scientist and AI Specialist 
 
 ---
 
