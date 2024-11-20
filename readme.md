@@ -19,7 +19,7 @@ Este chatbot está diseñado para operar como un sistema RAG (Retrieval-Augmente
 - **Pinecone:** para almacenar y buscar embeddings de los documentos.  
 - **Streamlit:** interfaz interactiva y amigable para el usuario.
 
-<img width="3600" alt="tecnicas" src="https://github.com/user-attachments/assets/83345922-ea06-47be-84d3-9017bbfce4fc">
+<img width="2288" alt="tecnicas" src="https://github.com/user-attachments/assets/593014b4-8e55-4b47-b512-eff801a368b7">
 
 
 ---
