@@ -36,7 +36,7 @@ Podés visitar la versión desplegada del proyecto y probar todas sus funcionali
 ![screen](https://github.com/user-attachments/assets/e6d35776-eba7-4c8d-8a2f-8cb844e4d7d3)
 
 
-Realizá todas las pruebas que desees. ¡Tu feedback es muy valioso para mí!
+**Realizá todas las pruebas que desees. ¡Tu feedback es muy valioso para mí!**
 
 
 ---
@@ -77,10 +77,11 @@ Una vez instaladas las dependencias y configuradas las variables:
 
 Esto abrirá la aplicación en tu navegador por defecto.
 
+---
 
-## Trabajo en Equipo 🤝  
+# Trabajo en Equipo 🤝  
 
-Este proyecto no habría sido posible sin el talento y dedicación de un increíble equipo de trabajo. ¡Conoce a quienes hicieron esto realidad!  
+**Este proyecto no habría sido posible sin el talento y dedicación de un increíble equipo de trabajo. ¡Conoce a quienes hicieron esto realidad!**  
 
 
 |         |                                          |  |
