@@ -33,6 +33,9 @@ Podés visitar la versión desplegada del proyecto y probar todas sus funcionali
 
 🔗 [Accede al proyecto aquí](https://cable-pro.streamlit.app/)
 
+![screen](https://github.com/user-attachments/assets/e6d35776-eba7-4c8d-8a2f-8cb844e4d7d3)
+
+
 Realizá todas las pruebas que desees. ¡Tu feedback es muy valioso para mí!
 
 
