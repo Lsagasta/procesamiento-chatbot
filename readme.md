@@ -6,11 +6,10 @@
 ![Badge: OpenAI](https://img.shields.io/badge/API-OpenAI-lightblue) 
 
 
-<img width="4688" alt="flujo" src="https://github.com/user-attachments/assets/611b4c59-b2c8-4811-8965-66d8a3e50e02">
-
-
 ## **Descripción del Proyecto**
 Este chatbot está diseñado para operar como un sistema RAG (Retrieval-Augmented Generation), utilizando como base de conocimiento cualquier archivo proporcionado por el usuario. Actualmente, se utiliza la información de una empresa ficticia que distribuye insumos eléctricos.  
+
+<img width="4688" alt="flujo" src="https://github.com/user-attachments/assets/611b4c59-b2c8-4811-8965-66d8a3e50e02">
 
 ### **Funcionalidades principales**  
 - **Consulta de productos:** características, precios y presentaciones disponibles.  
