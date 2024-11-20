@@ -27,6 +27,19 @@ Este chatbot está diseñado para operar como un sistema RAG (Retrieval-Augmente
 
 ---
 
+## ¡Prueba el Proyecto en Vivo! 🚀
+
+Podés visitar la versión desplegada del proyecto y probar todas sus funcionalidades en tiempo real. 
+
+🔗 [Accede al proyecto aquí](https://cable-pro.streamlit.app/)
+
+Realizá todas las pruebas que desees. ¡Tu feedback es muy valioso para mí!
+
+
+---
+
+### **En caso de que desees clonar el proyecto:**
+
 ## **Instrucciones para Hacerlo Funcionar**
 
 ### **1. Prerrequisitos**  
