@@ -2,7 +2,7 @@ import streamlit as st
 from funciones import obtener_respuesta_openai
 
 
-st.image("images/banner2.png")
+st.image("images/banner3.png")
 
 # Inicializar el historial en st.session_state si no existe con el mensaje de bienvenida
 if "historial" not in st.session_state:
