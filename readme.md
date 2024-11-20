@@ -17,7 +17,10 @@ Este chatbot está diseñado para operar como un sistema RAG (Retrieval-Augmente
 - **LangChain:** para la integración del flujo conversacional.  
 - **OpenAI:** generación de respuestas utilizando GPT.  
 - **Pinecone:** para almacenar y buscar embeddings de los documentos.  
-- **Streamlit:** interfaz interactiva y amigable para el usuario.  
+- **Streamlit:** interfaz interactiva y amigable para el usuario.
+
+<img width="3600" alt="tecnicas" src="https://github.com/user-attachments/assets/83345922-ea06-47be-84d3-9017bbfce4fc">
+
 
 ---
 
