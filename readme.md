@@ -81,7 +81,7 @@ Esto abrirá la aplicación en tu navegador por defecto.
 
 # Trabajo en Equipo 🤝  
 
-**Este proyecto no habría sido posible sin el talento y dedicación de un increíble equipo de trabajo. ¡Conoce a quienes hicieron esto realidad!**  
+**Este proyecto no habría sido posible sin el talento y dedicación de un increíble equipo de compañeros del Instituto de Formación Técnica N° 11. ¡Conoce a quienes hicieron esto realidad!**  
 
 
 |         |                                          |  |
