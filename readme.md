@@ -62,6 +62,24 @@ Una vez instaladas las dependencias y configuradas las variables:
 Esto abrirá la aplicación en tu navegador por defecto.
 
 
+## Trabajo en Equipo 🤝  
+
+Este proyecto no habría sido posible sin el talento y dedicación de un increíble equipo de trabajo. ¡Conoce a quienes hicieron esto realidad!  
+
+| **Nombre**          | **LinkedIn**                                               | **Rol** |
+|----------------------|------------------------------------------------------------|---------|
+| ![👨‍💻](https://img.icons8.com/color/48/000000/engineer.png) **Damian Cardinaux** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/damiancx/) | Data Scientist and AI Specialist |
+| ![👩‍💻](https://img.icons8.com/color/48/000000/female-engineer.png) **Natalia Riera** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nataliariera/) | Data Scientist and AI Specialist |
+| ![👨‍💻](https://img.icons8.com/color/48/000000/engineer.png) **Pablo Cardozo**    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pablo-cardozo16/) | Data Scientist and AI Specialist |
+| ![👨‍💻](https://img.icons8.com/color/48/000000/engineer.png) **Lucas Sagasta**    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/lucas-sagasta-4291198b/) | Data Scientist and AI Specialist |
+
+---
+
+✨ **¡Gracias a todos por su dedicación y esfuerzo!** ✨
+
+
+
+
 ### **Contacto**
 Para dudas o consultas, podés contactarme:
 
