@@ -1,4 +1,4 @@
-# **Chatbot RAG para Distribuidora de Insumos Eléctricos**
+# **Chatbot RAG**
 
 ![Badge: Streamlit](https://img.shields.io/badge/Framework-Streamlit-red) 
 ![Badge: LangChain](https://img.shields.io/badge/NLP-LangChain-blue) 
